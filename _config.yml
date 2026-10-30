@@ -6,7 +6,7 @@ description: "Python for Life Sciences 101 - ספר לימוד ומעבדות א
 
 # Repository and Launch Buttons (Colab, Kaggle, Binder)
 repository:
-  url: "https://github.com/alonitzkovitch/Python-for-Life-Sciences-101-TAU"
+  url: "https://github.com/alonitzko/Python-for-Life-Sciences-101-TAU"
   path_to_book: ""
   branch: "main"
 
