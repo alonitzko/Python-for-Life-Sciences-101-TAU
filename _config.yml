@@ -1,0 +1,35 @@
+# Book settings
+title: "Python for Life Sciences 101 - TAU"
+author: "פרופ' בני שור ז\"ל וד\"ר אמיר רובינשטיין (אוניברסיטת תל אביב & קמפוס IL)"
+logo: "images/TAU_online_Logo.png"
+description: "Python for Life Sciences 101 - ספר לימוד ומעבדות אינטראקטיביות מאת אוניברסיטת תל אביב וקמפוס IL"
+
+# Repository and Launch Buttons (Colab, Kaggle, Binder)
+repository:
+  url: "https://github.com/alonitzkovitch/Python-for-Life-Sciences-101-TAU"
+  path_to_book: ""
+  branch: "main"
+
+launch_buttons:
+  notebook_interface: "jupyterlab"
+  colab_url: "https://colab.research.google.com"
+  kaggle_url: "https://kaggle.com"
+  binderhub_url: "https://mybinder.org"
+
+# Execution settings
+execute:
+  execute_notebooks: "off"
+
+# HTML-specific settings
+html:
+  favicon: "images/tau-flag.png"
+  use_edit_page_button: false
+  use_repository_button: true
+  use_issues_button: false
+  extra_css:
+    - "custom.css"
+
+# Sphinx configuration
+sphinx:
+  config:
+    language: "he"

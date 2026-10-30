@@ -1,0 +1,150 @@
+format: jb-book
+root: intro
+parts:
+  - caption: "מבוא לקורס"
+    chapters:
+      - file: welcome/how_to_succeed
+
+  - caption: "שיעור 1: מדעי המחשב ושפת פייתון"
+    chapters:
+      - file: lesson1/index
+        sections:
+          - file: lesson1/1_intro_cs
+          - file: lesson1/2_algorithms_gale_shapley
+          - file: lesson1/3_python_basics_print
+          - file: lesson1/4_arithmetic_operators
+          - file: lesson1/5_types_and_variables
+          - file: lesson1/6_errors_in_python
+          - file: lesson1/7_comparisons
+          - file: lesson1/8_strings_intro
+          - file: lesson1/9_strings_operations_1
+          - file: lesson1/10_strings_operations_2
+          - file: lesson1/11_gale_shapley_python
+          - file: lesson1/12_lesson1_summary_quiz
+          - file: lesson1/lesson1_labs
+
+  - caption: "שיעור 2: רשימות, תנאים ופונקציות"
+    chapters:
+      - file: lesson2/index
+        sections:
+          - file: lesson2/1_lists_part1
+          - file: lesson2/2_lists_part2
+          - file: lesson2/3_nested_lists
+          - file: lesson2/4_conditionals_part1
+          - file: lesson2/5_conditionals_part2
+          - file: lesson2/6_functions_intro
+          - file: lesson2/7_function_parameters
+          - file: lesson2/8_functions_calling_functions
+          - file: lesson2/9_lesson2_summary_quiz
+          - file: lesson2/lesson2_labs
+
+  - caption: "שיעור 3: לולאות ובקרת זרימה"
+    chapters:
+      - file: lesson3/index
+        sections:
+          - file: lesson3/1_loops_intro
+          - file: lesson3/2_for_loops
+          - file: lesson3/3_for_range
+          - file: lesson3/4_while_loops
+          - file: lesson3/5_infinite_loops
+          - file: lesson3/6_nested_loops
+          - file: lesson3/7_complexity_intro
+          - file: lesson3/8_prime_numbers
+          - file: lesson3/9_lesson3_summary_quiz
+          - file: lesson3/lesson3_labs
+
+  - caption: "שיעור 4: מילונים ומבני נתונים"
+    chapters:
+      - file: lesson4/index
+        sections:
+          - file: lesson4/1_dictionaries_intro
+          - file: lesson4/2_dictionary_operations
+          - file: lesson4/3_dictionary_loops
+          - file: lesson4/4_frequency_tables
+          - file: lesson4/5_lesson4_summary_quiz
+          - file: lesson4/lesson4_labs
+
+  - caption: "בוחן אמצע הקורס"
+    chapters:
+      - file: midterm/index
+        sections:
+          - file: midterm/midterm_quiz
+
+  - caption: "שיעור 5: טבלאות ועיבוד נתונים"
+    chapters:
+      - file: lesson5/index
+        sections:
+          - file: lesson5/1_tabular_data
+          - file: lesson5/2_reading_csv
+          - file: lesson5/3_steps_case_study
+          - file: lesson5/4_lesson5_summary_quiz
+          - file: lesson5/lesson5_labs
+
+  - caption: "שיעור 6: איורים ותרשימים גרפיים (Matplotlib)"
+    chapters:
+      - file: lesson6/index
+        sections:
+          - file: lesson6/1_visualization_intro
+          - file: lesson6/2_figure_axes_hierarchy
+          - file: lesson6/3_line_and_scatter
+          - file: lesson6/4_bar_and_histograms
+          - file: lesson6/5_chart_styling
+          - file: lesson6/6_steps_visualization
+          - file: lesson6/7_lesson6_summary_quiz
+          - file: lesson6/lesson6_labs
+
+  - caption: "שיעור 7: ייצוג ועיבוד תמונה דיגיטלית (PIL)"
+    chapters:
+      - file: lesson7/index
+        sections:
+          - file: lesson7/1_image_representation
+          - file: lesson7/2_grayscale_vs_rgb
+          - file: lesson7/3_pil_intro
+          - file: lesson7/4_pixel_matrix_access
+          - file: lesson7/5_upside_down_algorithm
+          - file: lesson7/6_image_transformations
+          - file: lesson7/7_threshold_and_histogram
+          - file: lesson7/8_lesson7_summary_quiz
+          - file: lesson7/lesson7_labs
+
+  - caption: "העשרה: אלגוריתמים בסיסיים, הצפנה ותיקון שגיאות"
+    chapters:
+      - file: enrichment/index
+        sections:
+          - file: enrichment/1_search_problems
+          - file: enrichment/2_linear_search
+          - file: enrichment/3_binary_search
+          - file: enrichment/4_selection_sort
+          - file: enrichment/5_sorting_comparison
+          - file: enrichment/6_caesar_cipher
+          - file: enrichment/7_substitution_cipher
+          - file: enrichment/8_error_detection_parity
+          - file: enrichment/9_error_correction_cards
+          - file: enrichment/10_halting_problem
+          - file: enrichment/11_enrichment_summary_quiz
+          - file: enrichment/enrichment_labs
+
+  - caption: "מערך תרגול והכנה לבחינה"
+    chapters:
+      - file: practice/index
+        sections:
+          - file: practice/1_guided_class_exercises
+          - file: practice/2_exam_preparation_problems
+          - file: practice/3_interactive_scored_exam
+          - file: practice/interactive_practice_labs
+
+  - caption: "סיכום הקורס ומבט לעתיד"
+    chapters:
+      - file: summary/index
+        sections:
+          - file: summary/summary
+
+  - caption: "נספחים ועזרי לימוד"
+    chapters:
+      - file: appendices/index
+        sections:
+          - file: appendices/glossary
+          - file: appendices/course_outline
+          - file: appendices/course_materials
+          - file: appendices/course_handouts
+          - file: appendices/transcripts

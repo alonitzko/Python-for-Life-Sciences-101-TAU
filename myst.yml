@@ -1,0 +1,124 @@
+version: 1
+project:
+  id: 267e6983-bed4-423a-8690-f0c68efd84d8
+  title: "Python for Life Sciences 101 - TAU"
+  subtitle: "צעדים ראשונים במדעי המחשב ותכנות בפייתון למדעי החיים - אוניברסיטת תל אביב וקמפוס IL"
+  description: "ספר לימוד ומעבדות אינטראקטיביות המבוסס על קורס אוניברסיטת תל אביב וקמפוס IL: צעדים ראשונים במדעי המחשב ותכנות בפייתון (TAU+ACD_PythonIntro_HE)"
+  authors:
+    - name: "פרופ' בני שור ז\"ל"
+      affiliations: "אוניברסיטת תל אביב"
+    - name: "ד\"ר אמיר רובינשטיין"
+      affiliations: "אוניברסיטת תל אביב"
+  toc:
+    - file: intro.md
+    - file: welcome/how_to_succeed.md
+    - file: lesson1/index.md
+      children:
+        - file: lesson1/1_intro_cs.md
+        - file: lesson1/2_algorithms_gale_shapley.md
+        - file: lesson1/3_python_basics_print.md
+        - file: lesson1/4_arithmetic_operators.md
+        - file: lesson1/5_types_and_variables.md
+        - file: lesson1/6_errors_in_python.md
+        - file: lesson1/7_comparisons.md
+        - file: lesson1/8_strings_intro.md
+        - file: lesson1/9_strings_operations_1.md
+        - file: lesson1/10_strings_operations_2.md
+        - file: lesson1/11_gale_shapley_python.md
+        - file: lesson1/12_lesson1_summary_quiz.md
+        - file: lesson1/lesson1_labs.ipynb
+    - file: lesson2/index.md
+      children:
+        - file: lesson2/1_lists_part1.md
+        - file: lesson2/2_lists_part2.md
+        - file: lesson2/3_nested_lists.md
+        - file: lesson2/4_conditionals_part1.md
+        - file: lesson2/5_conditionals_part2.md
+        - file: lesson2/6_functions_intro.md
+        - file: lesson2/7_function_parameters.md
+        - file: lesson2/8_functions_calling_functions.md
+        - file: lesson2/9_lesson2_summary_quiz.md
+        - file: lesson2/lesson2_labs.ipynb
+    - file: lesson3/index.md
+      children:
+        - file: lesson3/1_loops_intro.md
+        - file: lesson3/2_for_loops.md
+        - file: lesson3/3_for_range.md
+        - file: lesson3/4_while_loops.md
+        - file: lesson3/5_infinite_loops.md
+        - file: lesson3/6_nested_loops.md
+        - file: lesson3/7_complexity_intro.md
+        - file: lesson3/8_prime_numbers.md
+        - file: lesson3/9_lesson3_summary_quiz.md
+        - file: lesson3/lesson3_labs.ipynb
+    - file: lesson4/index.md
+      children:
+        - file: lesson4/1_dictionaries_intro.md
+        - file: lesson4/2_dictionary_operations.md
+        - file: lesson4/3_dictionary_loops.md
+        - file: lesson4/4_frequency_tables.md
+        - file: lesson4/5_lesson4_summary_quiz.md
+        - file: lesson4/lesson4_labs.ipynb
+    - file: midterm/index.md
+      children:
+        - file: midterm/midterm_quiz.md
+    - file: lesson5/index.md
+      children:
+        - file: lesson5/1_tabular_data.md
+        - file: lesson5/2_reading_csv.md
+        - file: lesson5/3_steps_case_study.md
+        - file: lesson5/4_lesson5_summary_quiz.md
+        - file: lesson5/lesson5_labs.ipynb
+    - file: lesson6/index.md
+      children:
+        - file: lesson6/1_visualization_intro.md
+        - file: lesson6/2_figure_axes_hierarchy.md
+        - file: lesson6/3_line_and_scatter.md
+        - file: lesson6/4_bar_and_histograms.md
+        - file: lesson6/5_chart_styling.md
+        - file: lesson6/6_steps_visualization.md
+        - file: lesson6/7_lesson6_summary_quiz.md
+        - file: lesson6/lesson6_labs.ipynb
+    - file: lesson7/index.md
+      children:
+        - file: lesson7/1_image_representation.md
+        - file: lesson7/2_grayscale_vs_rgb.md
+        - file: lesson7/3_pil_intro.md
+        - file: lesson7/4_pixel_matrix_access.md
+        - file: lesson7/5_upside_down_algorithm.md
+        - file: lesson7/6_image_transformations.md
+        - file: lesson7/7_threshold_and_histogram.md
+        - file: lesson7/8_lesson7_summary_quiz.md
+        - file: lesson7/lesson7_labs.ipynb
+    - file: enrichment/index.md
+      children:
+        - file: enrichment/1_search_problems.md
+        - file: enrichment/2_linear_search.md
+        - file: enrichment/3_binary_search.md
+        - file: enrichment/4_selection_sort.md
+        - file: enrichment/5_sorting_comparison.md
+        - file: enrichment/6_caesar_cipher.md
+        - file: enrichment/7_substitution_cipher.md
+        - file: enrichment/8_error_detection_parity.md
+        - file: enrichment/9_error_correction_cards.md
+        - file: enrichment/10_halting_problem.md
+        - file: enrichment/11_enrichment_summary_quiz.md
+        - file: enrichment/enrichment_labs.ipynb
+    - file: practice/index.md
+      children:
+        - file: practice/1_guided_class_exercises.md
+        - file: practice/2_exam_preparation_problems.md
+        - file: practice/3_interactive_scored_exam.md
+        - file: practice/interactive_practice_labs.ipynb
+    - file: summary/index.md
+      children:
+        - file: summary/summary.md
+    - file: appendices/index.md
+      children:
+        - file: appendices/glossary.md
+        - file: appendices/course_outline.md
+        - file: appendices/course_materials.md
+        - file: appendices/course_handouts.md
+        - file: appendices/transcripts.md
+site:
+  template: book-theme

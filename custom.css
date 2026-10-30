@@ -1,0 +1,341 @@
+/* RTL and typography styling for Hebrew Jupyter Book */
+:root {
+  --myst-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans Hebrew", sans-serif;
+  --myst-font-family-code: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  --tau-blue: #003865;
+  --tau-light-blue: #0077b6;
+  --tau-accent: #0096c7;
+}
+
+html[lang="he"], body, article, main, .content {
+  direction: rtl;
+  text-align: right;
+  font-family: var(--myst-font-family);
+  line-height: 1.75;
+  font-size: 16px;
+  color: #24292f;
+}
+
+/* Ensure code blocks and inline code remain LTR */
+pre, code, kbd, samp, pre code, .highlight, div.highlight, .highlight pre, .code-cell, .cell_input {
+  direction: ltr !important;
+  text-align: left !important;
+  unicode-bidi: embed;
+  font-family: var(--myst-font-family-code) !important;
+}
+
+/* Inline code inside Hebrew text */
+p code, li code, td code, th code {
+  direction: ltr !important;
+  display: inline-block;
+  unicode-bidi: embed;
+  background-color: #f6f8fa;
+  color: #0550ae;
+  padding: 0.15em 0.35em;
+  border-radius: 4px;
+  font-size: 0.9em;
+  margin: 0 0.15em;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  direction: rtl;
+  text-align: right;
+  color: var(--tau-blue);
+  font-weight: 700;
+  margin-top: 1.5em;
+  margin-bottom: 0.6em;
+}
+
+h1 {
+  border-bottom: 2px solid #e1e4e8;
+  padding-bottom: 0.3em;
+}
+
+h2 {
+  border-bottom: 1px solid #eaecef;
+  padding-bottom: 0.25em;
+}
+
+/* Blockquotes and Admonitions */
+blockquote {
+  border-right: 4px solid var(--tau-light-blue);
+  border-left: none;
+  padding: 0.6em 1.2em;
+  margin: 1.2em 0;
+  background-color: #f0f7fb;
+  border-radius: 4px 0 0 4px;
+  color: #1b4965;
+}
+
+/* Admonitions (Callouts) */
+.admonition, .callout {
+  border-right: 4px solid var(--tau-light-blue);
+  border-left: none;
+  padding: 1em 1.2em;
+  margin: 1.5em 0;
+  border-radius: 6px;
+  background-color: #f8fafc;
+}
+
+.admonition.tip {
+  border-right-color: #2ea44f;
+  background-color: #f2fcf5;
+}
+
+.admonition.warning, .admonition.caution {
+  border-right-color: #cf222e;
+  background-color: #fff5f5;
+}
+
+.admonition.note {
+  border-right-color: #0969da;
+  background-color: #f0f7ff;
+}
+
+/* Tables */
+table {
+  direction: rtl;
+  text-align: right;
+  width: 100%;
+  margin: 1.5em 0;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #d0d7de;
+  padding: 8px 14px;
+}
+
+th {
+  background-color: #f6f8fa;
+  font-weight: 600;
+  color: var(--tau-blue);
+}
+
+/* Lists */
+ul, ol {
+  padding-right: 2em;
+  padding-left: 0;
+  margin: 0.8em 0;
+}
+
+li {
+  margin-bottom: 0.35em;
+}
+
+/* Math */
+.katex, .katex-display, .math {
+  direction: ltr !important;
+  text-align: center;
+}
+
+/* Interactive elements & quizzes */
+details {
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+  padding: 0.6em 1em;
+  margin: 1em 0;
+  background-color: #fbfcfd;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--tau-light-blue);
+  user-select: none;
+}
+
+summary:hover {
+  color: var(--tau-blue);
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+  margin: 1.5em auto;
+}
+
+.figure {
+  text-align: center;
+  margin: 1.5em 0;
+}
+
+.figure-caption {
+  font-size: 0.88em;
+  color: #57606a;
+  margin-top: 0.5em;
+}
+
+/* ============================================================ */
+/* Interactive Quiz & Learning Rate Component Styles            */
+/* ============================================================ */
+.quiz-widget {
+  background: #ffffff;
+  border: 1px solid #e1e4e8;
+  border-radius: 10px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  direction: rtl;
+  text-align: right;
+}
+
+.quiz-header {
+  border-bottom: 2px solid #0077b6;
+  padding-bottom: 0.8rem;
+  margin-bottom: 1.5rem;
+}
+
+.quiz-header h3 {
+  margin: 0;
+  color: #003865;
+  font-size: 1.4rem;
+}
+
+.quiz-header p {
+  color: #57606a;
+  font-size: 0.95rem;
+  margin-top: 0.3rem;
+}
+
+.quiz-card {
+  background: #f8fafc;
+  border: 1px solid #d0d7de;
+  border-radius: 8px;
+  padding: 1.2rem;
+  margin-bottom: 1.5rem;
+  transition: all 0.2s ease;
+}
+
+.quiz-card:hover {
+  border-color: #0077b6;
+}
+
+.quiz-q-title {
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #003865;
+  margin-bottom: 0.8rem;
+}
+
+.quiz-options {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.quiz-option-label {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  background: #ffffff;
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+  padding: 0.6rem 0.9rem;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease;
+  user-select: none;
+}
+
+.quiz-option-label:hover {
+  background: #f0f7fb;
+  border-color: #0077b6;
+}
+
+.quiz-option-label input[type="radio"] {
+  margin: 0;
+  cursor: pointer;
+}
+
+.quiz-option-label.correct-choice {
+  background-color: #d1fae5 !important;
+  border-color: #10b981 !important;
+  color: #065f46 !important;
+  font-weight: 600;
+}
+
+.quiz-option-label.wrong-choice {
+  background-color: #fee2e2 !important;
+  border-color: #ef4444 !important;
+  color: #991b1b !important;
+}
+
+.quiz-explanation {
+  display: none;
+  background: #f0f7ff;
+  border-right: 4px solid #0077b6;
+  padding: 0.8rem 1rem;
+  margin-top: 0.8rem;
+  border-radius: 4px;
+  font-size: 0.92rem;
+  color: #1b4965;
+}
+
+.quiz-actions {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1.5rem;
+  align-items: center;
+}
+
+.quiz-btn {
+  background: #0077b6;
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  padding: 0.7rem 1.4rem;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.1s ease;
+}
+
+.quiz-btn:hover {
+  background: #003865;
+}
+
+.quiz-btn-reset {
+  background: #64748b;
+}
+
+.quiz-btn-reset:hover {
+  background: #475569;
+}
+
+.quiz-result-panel {
+  display: none;
+  background: #f0fdf4;
+  border: 2px solid #22c55e;
+  border-radius: 8px;
+  padding: 1.2rem;
+  margin-top: 1.5rem;
+  text-align: center;
+}
+
+.quiz-score-number {
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: #15803d;
+}
+
+.quiz-rate-badge {
+  display: inline-block;
+  background: #003865;
+  color: #ffffff;
+  padding: 0.35rem 1rem;
+  border-radius: 20px;
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0.6rem 0;
+}
+
+.quiz-rate-msg {
+  font-size: 1rem;
+  color: #334155;
+  margin-top: 0.5rem;
+  line-height: 1.6;
+}
