@@ -40,6 +40,15 @@ jobs:
       - name: Build Jupyter Book HTML
         run: |
           jupyter-book build .
+          touch _build/html/.nojekyll
+          if [ ! -f _build/html/index.html ]; then
+            for f in _build/html/intro.html _build/html/README.html; do
+              if [ -f "$f" ]; then
+                cp "$f" _build/html/index.html
+                break
+              fi
+            done
+          fi
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

@@ -10,7 +10,7 @@ project:
     - name: "ד\"ר אמיר רובינשטיין"
       affiliations: "אוניברסיטת תל אביב"
   toc:
-    - file: intro.md
+    - file: index.md
     - file: welcome/how_to_succeed.md
     - file: lesson1/index.md
       children:
