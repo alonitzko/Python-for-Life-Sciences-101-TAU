@@ -21,7 +21,7 @@
 </div>
 
 
-![Data Center](../images/Data%20Center%20-%20Stock%20image.jpg)
+![Data Center](../images/data_center.jpg)
 
 > 🎬 **דברי המרצים (פרופ' בני שור וד"ר אמיר רובינשטיין):**  
 > *"כשאנשים שומעים 'מדעי המחשב', הם חושבים על טכנאי שפותח מחשב או מתקן תקלת רשת. אבל מדעי המחשב הם תחום מדעי מרתק העוסק במידע, בחישוביות, ובאופן שבו ניתן לתאר ולפתור בעיות מורכבות בצורה אוטומטית. המחשב הוא רק הכלי הפיזי שמאפשר לנו להוציא את הרעיונות לפועל."*
@@ -69,7 +69,7 @@
 ## 3. הרצה והתנסות בפייתון
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alonitzkovitch/python_course_book/blob/main/practice/interactive_labs.ipynb)
-[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://raw.githubusercontent.com/alonitzkovitch/python_course_book/main/practice/interactive_labs.ipynb)
+[![Open In Kaggle](https://kaggle.com/static/../images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://raw.githubusercontent.com/alonitzkovitch/python_course_book/main/practice/interactive_labs.ipynb)
 
 
 נוכל לבדוק בעצמנו כיצד פייתון ממירה מספרים עשרוניים לבינאריים ולהיפך:

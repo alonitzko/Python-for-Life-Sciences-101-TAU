@@ -26,22 +26,22 @@
 ---
 
 ## 🖼️ איורים ותמונות מהקורס
-* [TAU_online_Logo.png](images/TAU_online_Logo.png) – לוגו היחידה ללמידה דיגיטלית של אוניברסיטת תל אביב.
-* [gray_quare_cat.JPG](images/gray_quare_cat.JPG) – תמונת חתול בגווני אפור המשמשת למעבדת עיבוד התמונה ב-PIL.
-* [cells.png](images/cells.png) – צילום מיקרוסקופ של תאים (יישומי ביולוגיה ופייתון).
-* [Data Center - Stock image.jpg](images/Data%20Center%20-%20Stock%20image.jpg) – מרכז נתונים ומחשוב ענן.
-* [5.5_board.jpg](images/5.5_board.jpg) – לוח קסם הקלפים לתיקון שגיאות שידור.
-* [NumOfErrors.png](images/NumOfErrors.png) – זיהוי ותיקון שגיאות.
-* [graph_strangers_1.png](images/graph_strangers_1.png) – תורת הגרפים ובעיית הזרים/חברים.
-* [petersen_graph.jpg](images/petersen_graph.jpg) – גרף פיטרסן.
-* [Madmach_About01.jpg](images/Madmach_About01.jpg) – שער מדעי המחשב.
-* [Amir_Good04.gif](images/Amir_Good04.gif) / [Amir_Good02.gif](images/Amir_Good02.gif) – אנימציות הצלחה וסיום מאת ד"ר אמיר רובינשטיין.
-* [q07q05_02.jpg](images/q07q05_02.jpg), [q07q05_05.jpg](images/q07q05_05.jpg), [q07q05_07.jpg](images/q07q05_07.jpg) – איורי שאלות בוחן.
+* [TAU_online_Logo.png](../images/TAU_online_Logo.png) – לוגו היחידה ללמידה דיגיטלית של אוניברסיטת תל אביב.
+* [gray_quare_cat.JPG](../images/gray_quare_cat.JPG) – תמונת חתול בגווני אפור המשמשת למעבדת עיבוד התמונה ב-PIL.
+* [cells.png](../images/cells.png) – צילום מיקרוסקופ של תאים (יישומי ביולוגיה ופייתון).
+* [data_center.jpg](../images/data_center.jpg) – מרכז נתונים ומחשוב ענן.
+* [5.5_board.jpg](../images/5.5_board.jpg) – לוח קסם הקלפים לתיקון שגיאות שידור.
+* [NumOfErrors.png](../images/NumOfErrors.png) – זיהוי ותיקון שגיאות.
+* [graph_strangers_1.png](../images/graph_strangers_1.png) – תורת הגרפים ובעיית הזרים/חברים.
+* [petersen_graph.jpg](../images/petersen_graph.jpg) – גרף פיטרסן.
+* [Madmach_About01.jpg](../images/Madmach_About01.jpg) – שער מדעי המחשב.
+* [Amir_Good04.gif](../images/Amir_Good04.gif) / [Amir_Good02.gif](../images/Amir_Good02.gif) – אנימציות הצלחה וסיום מאת ד"ר אמיר רובינשטיין.
+* [q07q05_02.jpg](../images/q07q05_02.jpg), [q07q05_05.jpg](../images/q07q05_05.jpg), [q07q05_07.jpg](../images/q07q05_07.jpg) – איורי שאלות בוחן.
 
 ---
 
 ## ⚙️ קובצי תמיכה וסקריפטים
-* [ascii_converter.css](images/ascii_converter.css)
-* [unicode_converter.js](images/unicode_converter.js)
-* [prism.js](images/prism.js)
-* [Scroller.js](images/Scroller.js)
+* [ascii_converter.css](../images/ascii_converter.css)
+* [unicode_converter.js](../images/unicode_converter.js)
+* [prism.js](../images/prism.js)
+* [Scroller.js](../images/Scroller.js)

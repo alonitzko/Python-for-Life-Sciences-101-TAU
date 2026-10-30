@@ -6,7 +6,7 @@
 
 ### השוואות מספרים
 
-**קובץ מקור:** [`1 5 1 5 Comparisons_HEB.srt`](images/1%205%201%205%20Comparisons_HEB.srt)
+**קובץ מקור:** [`1 5 1 5 Comparisons_HEB.srt`](../images/1%205%201%205%20Comparisons_HEB.srt)
 
 "השוואות מספרים" בסרטון הקודם דיברנו על משתנים בשפת פייתון. בסרטון הזה נלמד כיצד להשוות בין ערכים. אחת הפעולות הנפוצות ביותר בתוכניות מחשב היא השוואה בין ערכים. הרבה פעמים אנחנו צריכים לדעת האם ערך מסוים קטן, גדול או שווה לערך אחר. למשל, בבעיית השידוך היציב
 
@@ -32,7 +32,7 @@
 
 ### פעולות על מחרוזות - חלק א'
 
-**קובץ מקור:** [`1 6 2 strings operations part 1_HEB.srt`](images/1%206%202%20strings%20operations%20part%201_HEB.srt)
+**קובץ מקור:** [`1 6 2 strings operations part 1_HEB.srt`](../images/1%206%202%20strings%20operations%20part%201_HEB.srt)
 
 "פעולות על מחרוזות - חלק א'" בסרטון זה נלמד על פעולות שונות שניתן לבצע על מחרוזות. בדומה לפעולות חשבון על מספרים, גם למחרוזות יש פעולות ספציפיות. לעיתים אנחנו רוצים להדביק שתי מחרוזות או יותר אחת לשנייה. הדבקה כזו מכונה שרשור מחרוזות, מהמילה שרשרת.
 
@@ -62,7 +62,7 @@
 
 ### מבט לאחור, מבט לפנים - סיכום הקורס
 
-**קובץ מקור:** [`2052e2ed-73aa-4e14-82c5-4e50630ebb90-he.srt`](images/2052e2ed-73aa-4e14-82c5-4e50630ebb90-he.srt)
+**קובץ מקור:** [`2052e2ed-73aa-4e14-82c5-4e50630ebb90-he.srt`](../images/2052e2ed-73aa-4e14-82c5-4e50630ebb90-he.srt)
 
 "מבט לאחור, מבט לפנים - סיכום הקורס" הגענו בשעה טובה לסוף הקורס. כל הכבוד לכל אחת ואחד מכם שהגיעו עד לכאן! הדרך בהחלט דרשה מאמץ, התמדה וסבלנות. אנחנו בטוחים כי מה שאתם חושבים ויודעים כעת על מדעי המחשב די שונה ממה שחשבתם וידעתם בתחילת הקורס.
 
@@ -114,7 +114,7 @@
 
 ### אוקיי
 
-**קובץ מקור:** [`23e57c80-3e05-4441-8f0d-5dcceded354c-en.srt`](images/23e57c80-3e05-4441-8f0d-5dcceded354c-en.srt)
+**קובץ מקור:** [`23e57c80-3e05-4441-8f0d-5dcceded354c-en.srt`](../images/23e57c80-3e05-4441-8f0d-5dcceded354c-en.srt)
 
 אוקיי אז בחרתם את הקורס שמענין אתכם ונכנסתם אליו אבל לפני שנתחיל חשוב להבין איך בדיוק מתמצאים בקורסים ומנווטים בהם כאן בחלק העליון של המסך תוכלו לעבור בין הלשוניות לחיצה על הלשונית הראשונה
 
@@ -130,7 +130,7 @@
 
 ### עד עכשיו למדנו כבר מושגים חשובים בפייתון
 
-**קובץ מקור:** [`68826e82-ebe4-46c9-bf85-c498f7ace21b-he.srt`](images/68826e82-ebe4-46c9-bf85-c498f7ace21b-he.srt)
+**קובץ מקור:** [`68826e82-ebe4-46c9-bf85-c498f7ace21b-he.srt`](../images/68826e82-ebe4-46c9-bf85-c498f7ace21b-he.srt)
 
 עד עכשיו למדנו כבר מושגים חשובים בפייתון כמו מחרוזות, רשימות, תנאים ופונקציות. היום נלמד על כלי חזק שישרת אותנו לעיתים קרובות, לולאות. בלולאות משתמשים בכל פעם שרוצים שפעולה מסוימת בפייתון תחזור על עצמה שוב ושוב.
 
@@ -148,7 +148,7 @@
 
 ### שלום
 
-**קובץ מקור:** [`c329027d-6bbd-41ed-9ba6-00d7ee903e75-he.srt`](images/c329027d-6bbd-41ed-9ba6-00d7ee903e75-he.srt)
+**קובץ מקור:** [`c329027d-6bbd-41ed-9ba6-00d7ee903e75-he.srt`](../images/c329027d-6bbd-41ed-9ba6-00d7ee903e75-he.srt)
 
 שלום נתחיל בהסבר קצר על מבנה התרשימים שניתן לייצר בעזרת הספריה פיפלוט הדיון הזה הוא מעט אבסטרקטי ויהיה ברור יותר לאחר שתתחילו לייצר את התרשימים בעצמכם בפייתון הספרייה פייפלוט כוללת אובייקטים שונים בעזרתם ניתן לשנות תכונות רבות של התרשים האובייקטים האלה מסודרים באופן היררכי בראש ההיררכיה נמצא האובייקט פיגר
 
@@ -166,7 +166,7 @@
 
 ### ביחידה הקודמת ראינו את בעיית השידוך היציב.
 
-**קובץ מקור:** [`CS Lesson 1 3 FC2.srt`](images/CS%20Lesson%201%203%20FC2.srt)
+**קובץ מקור:** [`CS Lesson 1 3 FC2.srt`](../images/CS%20Lesson%201%203%20FC2.srt)
 
 ביחידה הקודמת ראינו את בעיית השידוך היציב. המטרה שלנו בסופו של דבר היא להיעזר במחשב כדי למצוא שידוך יציב. בואו נראה ביחד איך אפשר לעשות זאת. "אלגוריתם לפתרון בעיית השידוך היציב" מה שנתאר עכשיו נקרא במדעי המחשב אלגוריתם. אלגוריתם הוא מעין מתכון כללי לפתרון בעיה. כלומר סדרת פעולות מוגדרת היטב,
 
@@ -212,7 +212,7 @@ D עוד לא הציע לאף אחת, ולכן יבקש להיות בקשר עם
 
 ### אחד התחומים האהובים על בני הוא מספרים ראשוניים.
 
-**קובץ מקור:** [`CS Lesson 3 5 FC_HEB.srt`](images/CS%20Lesson%203%205%20FC_HEB.srt)
+**קובץ מקור:** [`CS Lesson 3 5 FC_HEB.srt`](../images/CS%20Lesson%203%205%20FC_HEB.srt)
 
 אחד התחומים האהובים על בני הוא מספרים ראשוניים. זהו מושג חשוב בעולם המתמטיקה ומדעי המחשב. נסביר מה הם מספרים ראשוניים, ואיך הם מתקשרים ללולאות. בואו ניתן לבני להסביר. "מספרים ראשוניים" שלום לכם. מספרים ראשוניים הם מושג חשוב
 
@@ -238,7 +238,7 @@ D עוד לא הציע לאף אחת, ולכן יבקש להיות בקשר עם
 
 ### סיכום השיעור
 
-**קובץ מקור:** [`CS Lesson 7 8 FC2_HEB_FINAL.srt`](images/CS%20Lesson%207%208%20FC2_HEB_FINAL.srt)
+**קובץ מקור:** [`CS Lesson 7 8 FC2_HEB_FINAL.srt`](../images/CS%20Lesson%207%208%20FC2_HEB_FINAL.srt)
 
 "סיכום השיעור" לומדים ולומדות יקרים, הגעתם לסוף שיעור 7. בואו נעבור בקצרה על מה שלמדנו בשיעור הזה. התחלנו את השיעור עם הסבר על ייצוג של תמונות דיגיטליות. ראינו שתמונה דיגיטלית היא בעצם אוסף פיקסלים שמאורגנים בשורות ובעמודות,
 
@@ -260,7 +260,7 @@ D עוד לא הציע לאף אחת, ולכן יבקש להיות בקשר עם
 
 ### עיבוד בסיסי של תמונות דיגיטליות
 
-**קובץ מקור:** [`CS Lesson 7.5 FC3_HEB_FINAL.srt`](images/CS%20Lesson%207.5%20FC3_HEB_FINAL.srt)
+**קובץ מקור:** [`CS Lesson 7.5 FC3_HEB_FINAL.srt`](../images/CS%20Lesson%207.5%20FC3_HEB_FINAL.srt)
 
 "עיבוד בסיסי של תמונות דיגיטליות" ביחידות הקודמות למדנו לעבוד עם החבילה PIL של פייתון כדי לבצע פעולות פשוטות על תמונות. ראינו שכל הפעולות, גם פעולות מורכבות כמו סיבוב תמונה, הן בסופו של דבר מניפולציה שיטתית כלשהי על הפיקסלים של התמונה. ביחידה זו נכתוב בעצמנו שלוש פונקציות חדשות לעיבוד תמונה.
 
@@ -322,7 +322,7 @@ D עוד לא הציע לאף אחת, ולכן יבקש להיות בקשר עם
 
 ### האם יש בעיות שמחשבים לא יכולים לפתור בכלל?
 
-**קובץ מקור:** [`CS Lesson 8.3 FC_HEB_FINAL.srt`](images/CS%20Lesson%208.3%20FC_HEB_FINAL.srt)
+**קובץ מקור:** [`CS Lesson 8.3 FC_HEB_FINAL.srt`](../images/CS%20Lesson%208.3%20FC_HEB_FINAL.srt)
 
 "האם יש בעיות שמחשבים לא יכולים לפתור בכלל?" שלום לכם. מוכנים? ראינו עד כה בשיעור דוגמאות לבעיות אשר פתרונן החישובי אפשרי ברמת העיקרון, אך אינו מעשי. כעת, נראה שהעניינים יכולים להידרדר אפילו יותר,
 
@@ -366,7 +366,7 @@ D עוד לא הציע לאף אחת, ולכן יבקש להיות בקשר עם
 
 ### מתכנות ומתכנתים יקרים,
 
-**קובץ מקור:** [`ffdfe435-bc6a-49d5-b6e7-3427940eba84-he.srt`](images/ffdfe435-bc6a-49d5-b6e7-3427940eba84-he.srt)
+**קובץ מקור:** [`ffdfe435-bc6a-49d5-b6e7-3427940eba84-he.srt`](../images/ffdfe435-bc6a-49d5-b6e7-3427940eba84-he.srt)
 
 מתכנות ומתכנתים יקרים, הגעתם ליחידה האחרונה בשיעור ובעצם בקורס כולו. למדתם איך בנויה תמונה דיגיטלית, ואיך לבצע מניפולציות על תמונות. עכשיו נראה איך מיישמים את הידע הזה כדי להתמודד עם אתגר אמיתי במדעי החיים. ספירה אוטומטית של תאים וכימות המאפיינים שלהם. התא הוא היחידה הבסיסית
 
@@ -408,7 +408,7 @@ D עוד לא הציע לאף אחת, ולכן יבקש להיות בקשר עם
 
 ### זוכרים את המשחק טלפון שבור?
 
-**קובץ מקור:** [`he_subs_7TZiYJofcMw.srt.sjson`](images/he_subs_7TZiYJofcMw.srt.sjson)
+**קובץ מקור:** [`he_subs_7TZiYJofcMw.srt.sjson`](../images/he_subs_7TZiYJofcMw.srt.sjson)
 
 זוכרים את המשחק טלפון שבור? במשחק הזה, כל משתתף לוחש למשתתף שלידו משפט שלחש לו המשתתף הקודם בתור. לעיתים קרובות מישהו יעשה שגיאה קטנה בדרך, כזו שלא תיראה משמעותית מאוד, אבל השגיאה הקטנה הזאת מצטברת לאט לאט ותחריף עם כל משתתף עד שהקשר בין מה שנאמר בהתחלה
 
@@ -456,7 +456,7 @@ D עוד לא הציע לאף אחת, ולכן יבקש להיות בקשר עם
 
 ### מחרוזות בפייתון
 
-**קובץ מקור:** [`he_subs_c5f9amQUd6I.srt.sjson`](images/he_subs_c5f9amQUd6I.srt.sjson)
+**קובץ מקור:** [`he_subs_c5f9amQUd6I.srt.sjson`](../images/he_subs_c5f9amQUd6I.srt.sjson)
 
 "מחרוזות בפייתון" בסרטון זה נציג טיפוס נתונים חדש: מחרוזת. עד עכשיו ביצענו פעולות שונות על מספרים בלבד. היינו רוצים דרך להציג מידע מורכב יותר, שכולל גם מילים שאנחנו יכולים לקרוא ולהבין. מחרוזת, או באנגלית string, היא טיפוס נתונים שמכיל רצף של תווים. כשאנחנו אומרים רצף של תווים, אנחנו מתכוונים בדרך כלל
 
@@ -482,7 +482,7 @@ D עוד לא הציע לאף אחת, ולכן יבקש להיות בקשר עם
 
 ### פתרון בעיית השידוך היציב בעזרת פייתון
 
-**קובץ מקור:** [`he_subs_Ccbh0FtP4M4.srt.sjson`](images/he_subs_Ccbh0FtP4M4.srt.sjson)
+**קובץ מקור:** [`he_subs_Ccbh0FtP4M4.srt.sjson`](../images/he_subs_Ccbh0FtP4M4.srt.sjson)
 
 "פתרון בעיית השידוך היציב בעזרת פייתון" הנה הקוד למציאת שידוך יציב שראיתם. אני מזכיר שלא צריך להיבהל מהקוד הזה. הוא יחסית מסובך, ולא נדרש להבין אותו כדי להמשיך בקורס. מתוך כל התוכנית הזאת אנחנו נתמקד כעת רק בשורות הראשונות, שבהן מוגדר הקלט לבעיה.
 
@@ -508,7 +508,7 @@ D עוד לא הציע לאף אחת, ולכן יבקש להיות בקשר עם
 
 ### שיעור 5: שיטה גיאומטרית לתיקון שגיאה אחת
 
-**קובץ מקור:** [`he_subs_e_2Dixb8cAw.srt.sjson`](images/he_subs_e_2Dixb8cAw.srt.sjson)
+**קובץ מקור:** [`he_subs_e_2Dixb8cAw.srt.sjson`](../images/he_subs_e_2Dixb8cAw.srt.sjson)
 
 שיעור 5: שיטה גיאומטרית לתיקון שגיאה אחת וזיהוי מספר שגיאות מבוא לקודים לזיהוי ולתיקון שגיאות קסם הקלפים הוא בהחלט קסם נחמד, אבל איך הוא קשור בכלל לקודים לתיקון וזיהוי שגיאות? כבר ראינו שכל אובייקט במחשב מיוצג על ידי ביטים, אפסים ואחדים. בהודעת טקסט, למשל, כל אות וכל סימן
 
@@ -536,7 +536,7 @@ D עוד לא הציע לאף אחת, ולכן יבקש להיות בקשר עם
 
 ### עיבוד תמונה בפייתון באמצעות הספרייה PIL - חלק ב'
 
-**קובץ מקור:** [`he_subs_HLYZuIY2uaQ.srt.sjson`](images/he_subs_HLYZuIY2uaQ.srt.sjson)
+**קובץ מקור:** [`he_subs_HLYZuIY2uaQ.srt.sjson`](../images/he_subs_HLYZuIY2uaQ.srt.sjson)
 
 "עיבוד תמונה בפייתון באמצעות הספרייה PIL - חלק ב'" בסרטון הזה נציג עוד 3 פונקציות שימושיות מהחבילה PIL. על המסך כבר כתובות הפקודות לייבוא החבילה PIL והחבילה IP, פתיחת התמונה ששמורה ,("example.jpg") בקובץ וגם המרת בתמונה לפורמט של 256 גווני אפור. בואו נציג את התמונה כדי להיזכר בה.
 
@@ -562,7 +562,7 @@ D עוד לא הציע לאף אחת, ולכן יבקש להיות בקשר עם
 
 ### שיעור 5: שימושים של קודים לזיהוי ולתיקון שגיאות
 
-**קובץ מקור:** [`he_subs_nJTmymCsyYQ.srt.sjson`](images/he_subs_nJTmymCsyYQ.srt.sjson)
+**קובץ מקור:** [`he_subs_nJTmymCsyYQ.srt.sjson`](../images/he_subs_nJTmymCsyYQ.srt.sjson)
 
 שיעור 5: שימושים של קודים לזיהוי ולתיקון שגיאות קודים לזיהוי ולתיקון שגיאות דיברנו במהלך השיעור על הצורך בהעברת אינפורמציה ללא שגיאות ולמדנו על הקודים שמאפשרים לנו לזהות ולתקן שגיאות. מעניין לדעת שקודים אלו משמשים אותנו בחיי היום-יום. זה קורה גם כשאנחנו כלל לא מודעים לכך. יש מנגנונים שמוודאים כי נקבל באופן תקין את האינפורמציה שנשלחה אלינו.
 
@@ -598,7 +598,7 @@ D עוד לא הציע לאף אחת, ולכן יבקש להיות בקשר עם
 
 ### אחד התחומים האהובים על בני הוא מספרים ראשוניים.
 
-**קובץ מקור:** [`he_subs_TAeXZKeD-jo.srt.sjson`](images/he_subs_TAeXZKeD-jo.srt.sjson)
+**קובץ מקור:** [`he_subs_TAeXZKeD-jo.srt.sjson`](../images/he_subs_TAeXZKeD-jo.srt.sjson)
 
 אחד התחומים האהובים על בני הוא מספרים ראשוניים. זהו מושג חשוב בעולם המתמטיקה ומדעי המחשב. נסביר מה הם מספרים ראשוניים, ואיך הם מתקשרים ללולאות. בואו ניתן לבני להסביר. "מספרים ראשוניים" שלום לכם. מספרים ראשוניים הם מושג חשוב
 
@@ -624,7 +624,7 @@ D עוד לא הציע לאף אחת, ולכן יבקש להיות בקשר עם
 
 ### היי אמיר, אני צריך את עזרתך שוב...
 
-**קובץ מקור:** [`he_subs_Ws7p6O2SLGk.srt.sjson`](images/he_subs_Ws7p6O2SLGk.srt.sjson)
+**קובץ מקור:** [`he_subs_Ws7p6O2SLGk.srt.sjson`](../images/he_subs_Ws7p6O2SLGk.srt.sjson)
 
 היי אמיר, אני צריך את עזרתך שוב... היי בני, אתה צריך עזרה עם בחירת המתנה שלי לא בדיוק... אני רוצה להאריך את הטיול שלי מעבר ל-5 שבועות! ברור לי שאני צריך לצמצם בהוצאות שלי, אבל אני לא יודע במה. תוכל לעזור לי? אני יכול לחשב לך על מה אתה מוציא הכי הרבה כסף. סבבה? מעולה! אז תשלח לי פירוט של כל ההוצאות שלך בכל שבוע, על:
 
@@ -646,7 +646,7 @@ D עוד לא הציע לאף אחת, ולכן יבקש להיות בקשר עם
 
 ### שיעור 2: סיכום השיעור
 
-**קובץ מקור:** [`he_subs_xaCf9x3EpK0.srt.sjson`](images/he_subs_xaCf9x3EpK0.srt.sjson)
+**קובץ מקור:** [`he_subs_xaCf9x3EpK0.srt.sjson`](../images/he_subs_xaCf9x3EpK0.srt.sjson)
 
 שיעור 2: סיכום השיעור ‫חברים, הגענו לסוף השיעור השני בקורס. ‫בשיעור הזה למדתם מושגים חדשים מעולם התכנות ‫והתחלתם לרכוש מיומנות מעשית ‫בכתיבת תוכניות פשוטות בפייתון. ‫בואו נסכם את הדברים המרכזיים ‫שנחשפנו אליהם בשיעור הזה: ‫רשימות, משפטי תנאי ופונקציות.
 
@@ -684,7 +684,7 @@ D עוד לא הציע לאף אחת, ולכן יבקש להיות בקשר עם
 
 ### רשימות מקוננות - חלק א
 
-**קובץ מקור:** [`he_subs_Y1wf9UPcIxs.srt.sjson`](images/he_subs_Y1wf9UPcIxs.srt.sjson)
+**קובץ מקור:** [`he_subs_Y1wf9UPcIxs.srt.sjson`](../images/he_subs_Y1wf9UPcIxs.srt.sjson)
 
 "רשימות מקוננות - חלק א" בואו נראה איך עובדים בפייתון עם רשימות מקוננות, כלומר רשימות בתוך רשימות. כזכור, בבעיה החדשה של בני, הנתונים שלנו, כלומר הקלט, היא טבלה, וטבלאות אפשר לייצג בפייתון באמצעות רשימות מקוננות. בסוף הסרטון הזה נבקש מכם
 
@@ -710,7 +710,7 @@ D עוד לא הציע לאף אחת, ולכן יבקש להיות בקשר עם
 
 ### היי, קוראים לי מארק.
 
-**קובץ מקור:** [`M0003 LS Python Lesson 01 Intro FC.srt`](images/M0003%20LS%20Python%20Lesson%2001%20Intro%20FC.srt)
+**קובץ מקור:** [`M0003 LS Python Lesson 01 Intro FC.srt`](../images/M0003%20LS%20Python%20Lesson%2001%20Intro%20FC.srt)
 
 היי, קוראים לי מארק. ולי קוראים רותם. ואנחנו חוקרים בפקולטה למדעי החיים. בהמשך תכירו גם את אופיר שכרגע רודף אחרי לטאות בארה"ב. אז ברוכים הבאים לקורס מבוא לתכנון בפייתון של מדעי החיים. רגע, רגע, מארק, מה הקשר בין ביולוגיה לפייתון?
 
@@ -732,7 +732,7 @@ D עוד לא הציע לאף אחת, ולכן יבקש להיות בקשר עם
 
 ### Strings Operations - Part 2
 
-**קובץ מקור:** [`1 6 2 strings operations part 2_ENG_YC.srt`](images/1%206%202%20strings%20operations%20part%202_ENG_YC.srt)
+**קובץ מקור:** [`1 6 2 strings operations part 2_ENG_YC.srt`](../images/1%206%202%20strings%20operations%20part%202_ENG_YC.srt)
 
 "Strings Operations - Part 2" In this video, we'll present some more useful strings operators in Python. We'll start with comparison. How to check whether two strings are identical? Some of you may have guess it by now: Similar to number comparison, here, too, we'll utilize the double equals sign. For example, let's check if
 
@@ -764,7 +764,7 @@ including lexicographical comparison, and to find a certain character in a strin
 
 ### Gale-Shapley Algorithm in Python
 
-**קובץ מקור:** [`156987c1-05bd-486d-96cf-a2c556ffc0c2-en.srt`](images/156987c1-05bd-486d-96cf-a2c556ffc0c2-en.srt)
+**קובץ מקור:** [`156987c1-05bd-486d-96cf-a2c556ffc0c2-en.srt`](../images/156987c1-05bd-486d-96cf-a2c556ffc0c2-en.srt)
 
 "Gale-Shapley Algorithm in Python" In the previous units we introduced the Python programming language. Did you notice how much new stuff you've learned? You have become familiar with different terms, such as variables, types of data in Python -- such as int, float and string -- You ovserved how to perform arithmetic and strings operations, and much more.
 
@@ -778,7 +778,7 @@ and a list of their preferences. Then we find the code to solve the problem that
 
 ### Conditionals - Part A
 
-**קובץ מקור:** [`4e1a6feb-010d-4217-90d3-d6179253f78d-en.srt`](images/4e1a6feb-010d-4217-90d3-d6179253f78d-en.srt)
+**קובץ מקור:** [`4e1a6feb-010d-4217-90d3-d6179253f78d-en.srt`](../images/4e1a6feb-010d-4217-90d3-d6179253f78d-en.srt)
 
 "Conditionals - Part A" In this video, we'll implement in Python the conditionals you saw in the flow chart. Let's look at the first flow chart: Rhombus represents a conditional, and rectangles, commands. The first command is the definition of the input variable, temp,
 
@@ -808,7 +808,7 @@ For example: Let's add a line outside of the block print("Bon appetit!") In this
 
 ### Welcome to Python
 
-**קובץ מקור:** [`b3ade575-1964-48e6-85ed-9223bc039d81-en.srt`](images/b3ade575-1964-48e6-85ed-9223bc039d81-en.srt)
+**קובץ מקור:** [`b3ade575-1964-48e6-85ed-9223bc039d81-en.srt`](../images/b3ade575-1964-48e6-85ed-9223bc039d81-en.srt)
 
 "Welcome to Python" In the previous unit, we were introduced to an algorithm that solves the stable matching problem. We have become familiar with notions such as Computational problem, input, output, and algorithm. We also discussed what's in the core of a computer's operaion: namely, electrical circuits that represent data, and the kind of operations that can be performed on that data.
 
@@ -834,7 +834,7 @@ Later, we will learn the basic principles of this language. We will learn all ab
 
 ### Hi Amir. -Hi Benny
 
-**קובץ מקור:** [`CS 2 1 FC3_ENG_YC.srt`](images/CS%202%201%20FC3_ENG_YC.srt)
+**קובץ מקור:** [`CS 2 1 FC3_ENG_YC.srt`](../images/CS%202%201%20FC3_ENG_YC.srt)
 
 Hi Amir. -Hi Benny How is it in Tel Aviv? Great, and how is it in New Zealand? Excellent, it's an amazing place. However, I have one small problem. -What's the problem? I was supposed to return to Israel tomorrow, but it is so good here, I would like to stay and I'm not sure for how long
 
@@ -864,7 +864,7 @@ Guys, we can implement this process easily in Python. Once we give the input, th
 
 ### Gale-Shapley Algorithm in Python
 
-**קובץ מקור:** [`CS Lesson 1 7 FC2_ENG_YC.srt`](images/CS%20Lesson%201%207%20FC2_ENG_YC.srt)
+**קובץ מקור:** [`CS Lesson 1 7 FC2_ENG_YC.srt`](../images/CS%20Lesson%201%207%20FC2_ENG_YC.srt)
 
 "Gale-Shapley Algorithm in Python" In the previous units we introduced the Python programming language. Did you notice how much new stuff you've learned? You have become familiar with different terms, such as variables, types of data in Python -- such as int, float and string -- You ovserved how to perform arithmetic and strings operations, and much more.
 
@@ -878,7 +878,7 @@ and a list of their preferences. Then we find the code to solve the problem that
 
 ### At the end of the previous unit
 
-**קובץ מקור:** [`CS Lesson 4 4A FC_ENG.srt`](images/CS%20Lesson%204%204A%20FC_ENG.srt)
+**קובץ מקור:** [`CS Lesson 4 4A FC_ENG.srt`](../images/CS%20Lesson%204%204A%20FC_ENG.srt)
 
 At the end of the previous unit we observed that a Sequential search might not be efficient enough for long lists. In the worst case, we would need to go through all the list's items. Here the Binary search enters the picture, one of the most fundamental and important algorithms in computer scienses.
 
@@ -898,7 +898,7 @@ The third time, the clerk went to the middle envelope, and there he discovered p
 
 ### Can a Substitution Cipher be Broken?
 
-**קובץ מקור:** [`subs_2fw27xL9NS0.srt.sjson`](images/subs_2fw27xL9NS0.srt.sjson)
+**קובץ מקור:** [`subs_2fw27xL9NS0.srt.sjson`](../images/subs_2fw27xL9NS0.srt.sjson)
 
 "Can a Substitution Cipher be Broken?" A reminder: What allowed us to easily break the Caesar cipher? The fact that the cipher had the same shift for all the letters of the alphabet. This means there's a total of only 26 possible shift options, including a shift of 0. It's possible to try tham all,
 
@@ -918,7 +918,7 @@ even though in English it is the rarest. Decrypting such a text according to Eng
 
 ### Lesson 5: A Geometric Techniques To Solving One Error
 
-**קובץ מקור:** [`subs_f6if4RTfBYQ.srt.sjson`](images/subs_f6if4RTfBYQ.srt.sjson)
+**קובץ מקור:** [`subs_f6if4RTfBYQ.srt.sjson`](../images/subs_f6if4RTfBYQ.srt.sjson)
 
 Lesson 5: A Geometric Techniques To Solving One Error and Identifying a Number of Errors. An Introduction to Codes for Identifying and Correcting Errors We'll begin with a somewhat 0unorthodox activity: A card magic trick, with which we'll demostrate the magnitude of my super-natural powers. Iill first explain what's going to happen: We have a deck of  cards. Each card has two sides -
 
@@ -950,7 +950,7 @@ And now do it yourselves.
 
 ### Image Processing via Python Imaging Library (PIL) - Part 2
 
-**קובץ מקור:** [`subs_HLYZuIY2uaQ.srt.sjson`](images/subs_HLYZuIY2uaQ.srt.sjson)
+**קובץ מקור:** [`subs_HLYZuIY2uaQ.srt.sjson`](../images/subs_HLYZuIY2uaQ.srt.sjson)
 
 "Image Processing via Python Imaging Library (PIL) - Part 2" In this video, we'll represent 3 useful additional functions from the PIL package. We've already written the commands for importing PIL and IP packages, and for opening the image that we saved in file ("example.jpg"), and the command for converting the image to 256 shades of gray format. Let's show the image to remember it.
 
@@ -974,7 +974,7 @@ Let's check how many white pixels in our image. We go to the end of the list. Ah
 
 ### Lesson 2: Summary
 
-**קובץ מקור:** [`subs_xaCf9x3EpK0.srt.sjson`](images/subs_xaCf9x3EpK0.srt.sjson)
+**קובץ מקור:** [`subs_xaCf9x3EpK0.srt.sjson`](../images/subs_xaCf9x3EpK0.srt.sjson)
 
 Lesson 2: Summary We have reached the end of the second lesson in the course. You've learned new terms in the realm of coding, and have begun to acquire practical proficiency in writing simple programmes in Python. Let's summarize what we have learned in this unit: Lists, conditionals, and functions.
 
@@ -1014,7 +1014,7 @@ Now you are ready for the next challenge, a key structure that will help us to w
 
 ### الدرس الأول: المتغيّرات
 
-**קובץ מקור:** [`1 5 1 4  variables_ARA.srt`](images/1%205%201%204%20%20variables_ARA.srt)
+**קובץ מקור:** [`1 5 1 4  variables_ARA.srt`](../images/1%205%201%204%20%20variables_ARA.srt)
 
 "الدرس الأول: المتغيّرات" في هذا الفيديو، سنقدّم مصطلحًا جديدًا: المتغيرات، Variables. تخيلوا أن يتوجه إليكم شخص غريب في الشارع يومًا ما، ويطلب منكم مساعدته في حساب ما يلي، 12*9-9999+123**5 / 17 من منا لم يحدث له أمر مماثل؟ يمكن لبايثون بالطبع حساب ذلك في لمح البصر. الآن، تخيلوا أن يتوجه إليكم نفس الشخص مرة أخرى غداة ذلك اليوم،
 
@@ -1046,7 +1046,7 @@ x = result سنكتب والآن المتغيران x وresult يحتويان ع
 
 ### الدرس الثالث: حلقات تكرار while
 
-**קובץ מקור:** [`3 4 4 while loops_ARA_FINAL.srt`](images/3%204%204%20while%20loops_ARA_FINAL.srt)
+**קובץ מקור:** [`3 4 4 while loops_ARA_FINAL.srt`](../images/3%204%204%20while%20loops_ARA_FINAL.srt)
 
 "الدرس الثالث: حلقات تكرار while" في الوحدة السابقة رأينا طريقة لحساب مجموع أرقام في نطاق معين باستخدام حلقة تكرار for. ها هو الكود الذي استخدمناه. تذكير مختصر لمن نسي ما يحدث في هذا البرنامج: تحصل الدالة sum_range على رقمين كمُدخلات، start و end، اللذين يشكلان بالتلاؤم
 
@@ -1078,7 +1078,7 @@ start و end الرقم الأول والرقم الأخير في النطاق �
 
 ### الدرس الخامس: حساب رقم التدقيق في رقم الهوية - الجزء الثاني
 
-**קובץ מקור:** [`5.2.2 - control digit - part 2_ARA_final.srt`](images/5.2.2%20-%20control%20digit%20-%20part%202_ARA_final.srt)
+**קובץ מקור:** [`5.2.2 - control digit - part 2_ARA_final.srt`](../images/5.2.2%20-%20control%20digit%20-%20part%202_ARA_final.srt)
 
 "الدرس الخامس: حساب رقم التدقيق في رقم الهوية - الجزء الثاني" كما قلنا في الفيديو السابق، يوجد خطأ برمجي صغير في هذا البرنامج. دعونا نرى. سنقوم بتغيير مدخلات دالتنا، بحيث بدلاً من 0 يكون الرقم الأول 7. سوف تفهمون على الفور لماذا فعلنا ذلك. نُجري.
 
@@ -1098,7 +1098,7 @@ start و end الرقم الأول والرقم الأخير في النطاق �
 
 ### الدرس السادس: التشفير باستخدام شفرة قيصر
 
-**קובץ מקור:** [`6.3.1 caesar encryption_ARA_FINAL.srt`](images/6.3.1%20caesar%20encryption_ARA_FINAL.srt)
+**קובץ מקור:** [`6.3.1 caesar encryption_ARA_FINAL.srt`](../images/6.3.1%20caesar%20encryption_ARA_FINAL.srt)
 
 "الدرس السادس: التشفير باستخدام شفرة قيصر" في هذا الفيديو، سنكتب دالة للتشفير باستخدام شفرة قيصر. سنسمي دالتنا بـ: caesar_encrypt. ما المدخلات التي يجب أن تحصل عليها الدالة؟ أولاً، النص الذي نريد تشفيره، plaintext. المُدخل الثاني هو الـ offset ،asset، الذي نقوم بالتشفير بواسطته. إنه مفتاح التشفير السري.
 
@@ -1130,7 +1130,7 @@ start و end الرقم الأول والرقم الأخير في النطاق �
 
 ### الدرس الرابع: البحث المتسلسل في بايثون
 
-**קובץ מקור:** [`705ab775-7a6a-4af4-9121-a38469e0821b-ar.srt`](images/705ab775-7a6a-4af4-9121-a38469e0821b-ar.srt)
+**קובץ מקור:** [`705ab775-7a6a-4af4-9121-a38469e0821b-ar.srt`](../images/705ab775-7a6a-4af4-9121-a38469e0821b-ar.srt)
 
 "الدرس الرابع: البحث المتسلسل في بايثون" في هذا الفيديو، سنعرض كتابة كود في بايثون لخوارزمية البحث المتسلسل التي تعلمناها. للتذكير، تستقبل الخوارزمية قائمة كمُدخل وعنصرًا للبحث عنه في القائمة. تمرّ الخوارزمية على عناصر القائمة واحدًا تلو الآخر، وتقارنها بالقيمة التي نبحث عنها حتى نجد هذه القيمة، أو لا نجدها.
 
@@ -1148,7 +1148,7 @@ e هو الاسم الذي اخترناه لعناصر القائمة. في كل
 
 ### الدرس الرابع: البحث المتسلسل في بايثون ـ مثال في Python Tutor
 
-**קובץ מקור:** [`70602e27-3298-4941-abe2-77c52629aa30-ar.srt`](images/70602e27-3298-4941-abe2-77c52629aa30-ar.srt)
+**קובץ מקור:** [`70602e27-3298-4941-abe2-77c52629aa30-ar.srt`](../images/70602e27-3298-4941-abe2-77c52629aa30-ar.srt)
 
 "الدرس الرابع: البحث المتسلسل في بايثون ـ مثال في Python Tutor" لفهم الكود الذي كتبناه بشكل أفضل، دعونا نجريه في Python tutor. نقرة أولى، ودالتنا جاهزة للعمل. نقرة ثانية، ويتم تعريف القائمة. قائمة طولها 5. المؤشر الأول هو 0، عنصر القائمة هناك 4، المؤشر الأخير هو 4 وعنصر القائمة هو 1.
 
@@ -1162,7 +1162,7 @@ e هو الاسم الذي اخترناه لعناصر القائمة. في كل
 
 ### يا جماعة، سلفي.
 
-**קובץ מקור:** [`ar_subs_1-ZATiLBboU.srt.sjson`](images/ar_subs_1-ZATiLBboU.srt.sjson)
+**קובץ מקור:** [`ar_subs_1-ZATiLBboU.srt.sjson`](../images/ar_subs_1-ZATiLBboU.srt.sjson)
 
 يا جماعة، سلفي. "الدرس السابع ـ الصور الرقمية" "ما ه ي الصور الرقمية؟" متى آخر مرة التقطتم صورة على هاتفكم أو قمتم بتحميل صورة على الشبكة؟ اسمحوا لي أن أخمن بأن معظمكم فعل ذلك حتى اليوم أو البارحة. جميعنا نصوّر، نرسل ونحمّل الصور على الشبكة طوال الوقت.
 
@@ -1188,7 +1188,7 @@ e هو الاسم الذي اخترناه لعناصر القائمة. في كل
 
 ### المعالجة الأساسية للصور الرقمية
 
-**קובץ מקור:** [`ar_subs_BcdvYjgBJnU.srt.sjson`](images/ar_subs_BcdvYjgBJnU.srt.sjson)
+**קובץ מקור:** [`ar_subs_BcdvYjgBJnU.srt.sjson`](../images/ar_subs_BcdvYjgBJnU.srt.sjson)
 
 "المعالجة الأساسية للصور الرقمية" في الوحدات السابقة، تعلمنا العمل مع حزمة PIL من بايثون لإجراء عمليات بسيطة على الصور. رأينا أن جميع الإجراءات، حتى الإجراءات المعقدة مثل تدوير الصور، هي في نهاية الأمر بمثابة تلاعب منهجي ما على بكسلات الصورة. في هذه الوحدة سنكتب بأنفسنا ثلاث دوال جديدة لمعالجة الصور.
 
@@ -1248,7 +1248,7 @@ e هو الاسم الذي اخترناه لعناصر القائمة. في كل
 
 ### الدرس الأول: عمليات على النّصوص ـ الجزء الأول
 
-**קובץ מקור:** [`ar_subs_Duztef3NaZs.srt.sjson`](images/ar_subs_Duztef3NaZs.srt.sjson)
+**קובץ מקור:** [`ar_subs_Duztef3NaZs.srt.sjson`](../images/ar_subs_Duztef3NaZs.srt.sjson)
 
 "الدرس الأول: عمليات على النّصوص ـ الجزء الأول" سنتعرف في هذا الفيديو على عمليات مختلفة يمكن تنفيذها على النّصوص. كما هو الحال مع عمليات الحساب على الأرقام، توجد للنّصوص أيضًا عمليات محددة. أحيانًا نرغب في لصق نصّين أو أكثر في بعضهما البعض. هذا ما يُسمى بسَلسَلة النّصوص، من الكلمة سلسلة. للقيام بذلك في بايثون، يمكن استخدام العامل زائد،
 
@@ -1276,7 +1276,7 @@ e هو الاسم الذي اخترناه لعناصر القائمة. في كل
 
 ### مرحبًا.
 
-**קובץ מקור:** [`ar_subs_HbYmcgS6b8Y.srt.sjson`](images/ar_subs_HbYmcgS6b8Y.srt.sjson)
+**קובץ מקור:** [`ar_subs_HbYmcgS6b8Y.srt.sjson`](../images/ar_subs_HbYmcgS6b8Y.srt.sjson)
 
 مرحبًا. في قسم من الوحدة السابقة، تعلمنا كيفية إنشاء مُخطَّط انتشار في بايثون وكيف يساهم هذا المخطط البياني باكتشاف أنماط من خلال البيانات. لكن لا يُعتبر مخطط الانتشار حلًا لكل الحالات. فإنه لا يعرض بشكل واضح مثلاً العلاقات الكمية بين التصنيفات المختلفة للبيانات.
 
@@ -1298,7 +1298,7 @@ e هو الاسم الذي اخترناه لعناصر القائمة. في كل
 
 ### الدرس الرابع: الترتيب الانتقائي في بايثون - مثال في Python Tutor
 
-**קובץ מקור:** [`ar_subs_KcyepeGp6is.srt.sjson`](images/ar_subs_KcyepeGp6is.srt.sjson)
+**קובץ מקור:** [`ar_subs_KcyepeGp6is.srt.sjson`](../images/ar_subs_KcyepeGp6is.srt.sjson)
 
 "الدرس الرابع: الترتيب الانتقائي في بايثون - مثال في Python Tutor" .Python tutor في selection sort سنستعرض نقرة أولى، ويتم تعريف الدالة. نقرة ثانية، ويتم تعريف القائمة. والآن، مع النقرة التالية، يبدأ إجراء الدالة. طول القائمة، n، يساوي 5. قائمة فارغة جديدة، sorted_L، والآن نبدأ حلقة التكرار.
 
@@ -1308,7 +1308,7 @@ e هو الاسم الذي اخترناه لعناصر القائمة. في كل
 
 ### الدرس الأول: بايثون: تشرفنا
 
-**קובץ מקור:** [`ar_subs_KSOAfykfGAU.srt.sjson`](images/ar_subs_KSOAfykfGAU.srt.sjson)
+**קובץ מקור:** [`ar_subs_KSOAfykfGAU.srt.sjson`](../images/ar_subs_KSOAfykfGAU.srt.sjson)
 
 "الدرس الأول: بايثون: تشرفنا" في الوحدة السابقة رأينا خوارزميّة تحلّ مسألة الإقران المتكافئ. تعرفنا على المفاهيم: مسألة حسابية، مُدخلات، مُخرجات وخوارزميّة. تحدثنا أيضًا عن الأساس الذي يرتكز عليه عمل الحاسوب: دوائر كهربائية تمثّل معلومات، وعمليات تنفذ على هذه المعلومات.
 
@@ -1334,7 +1334,7 @@ e هو الاسم الذي اخترناه لعناصر القائمة. في كل
 
 ### 5. -6. -بوم.
 
-**קובץ מקור:** [`ar_subs_LaRoaZm5GmE.srt.sjson`](images/ar_subs_LaRoaZm5GmE.srt.sjson)
+**קובץ מקור:** [`ar_subs_LaRoaZm5GmE.srt.sjson`](../images/ar_subs_LaRoaZm5GmE.srt.sjson)
 
 5. -6. -بوم. .9- .8 مرحبا بالجميع. في هذا الدرس، سنتحدث عن مصطلح بالغ الأهمية في البرمجة: حلقات التكرار. سنشرح هذا المفهوم بواسطة لعبتين لطيفتين، ربما بعضكم يعرفهما. تسمى اللعبة الأولى "7 بوم"،
 
@@ -1372,7 +1372,7 @@ e هو الاسم الذي اخترناه لعناصر القائمة. في كل
 
 ### الدرس الرابع: البحث الثنائي في بايثون ـ مثال في Python Tutor
 
-**קובץ מקור:** [`ar_subs_pJkfAqNA-fI.srt.sjson`](images/ar_subs_pJkfAqNA-fI.srt.sjson)
+**קובץ מקור:** [`ar_subs_pJkfAqNA-fI.srt.sjson`](../images/ar_subs_pJkfAqNA-fI.srt.sjson)
 
 "الدرس الرابع: البحث الثنائي في بايثون ـ مثال في Python Tutor" دعونا نتابع برمجة دالة binary_search .Python tutorفي سنستخدم القائمة التي رأيناها سابقًا، هذه المرة سنبحث في هذه القائمة عن القيمة 31. لنبدأ. أولاً نقوم بتعريف الدالة، ثم القائمة،
 
@@ -1394,7 +1394,7 @@ e هو الاسم الذي اخترناه لعناصر القائمة. في كل
 
 ### الدرس الأول: عمليات على النّصوص ـ الجزء الأول
 
-**קובץ מקור:** [`ar_subs_Q1Bpy1nEyUk.srt.sjson`](images/ar_subs_Q1Bpy1nEyUk.srt.sjson)
+**קובץ מקור:** [`ar_subs_Q1Bpy1nEyUk.srt.sjson`](../images/ar_subs_Q1Bpy1nEyUk.srt.sjson)
 
 "الدرس الأول: عمليات على النّصوص ـ الجزء الأول" سنتعرف في هذا الفيديو على عمليات مختلفة يمكن تنفيذها على النّصوص. كما هو الحال مع عمليات الحساب على الأرقام، توجد للنّصوص أيضًا عمليات محددة. أحيانًا نرغب في لصق نصّين أو أكثر في بعضهما البعض. هذا ما يُسمى بسَلسَلة النّصوص، من الكلمة سلسلة. للقيام بذلك في بايثون، يمكن استخدام العامل زائد،
 
@@ -1422,7 +1422,7 @@ e هو الاسم الذي اخترناه لعناصر القائمة. في كل
 
 ### الدرس السادس: فك التشفير باستخدام شفرة قيصر
 
-**קובץ מקור:** [`ar_subs_RHkJW2lHaTg.srt.sjson`](images/ar_subs_RHkJW2lHaTg.srt.sjson)
+**קובץ מקור:** [`ar_subs_RHkJW2lHaTg.srt.sjson`](../images/ar_subs_RHkJW2lHaTg.srt.sjson)
 
 "الدرس السادس: فك التشفير باستخدام شفرة قيصر" في هذا الفيديو، سنكتب كودًا لفك تشفير نص تم تشفيره بواسطة شفرة قيصر. يظهر أمامكم الكود الذي استخدمناه سابقًا للتشفير، أدخلنا أسطر الطباعة التي فيه إلى ملاحظة لكيلا تزعجنا. لنبدأ بمثال صغير: سنشفر النص "abc" بـ asset بقدر 1.
 
@@ -1442,7 +1442,7 @@ e هو الاسم الذي اخترناه لعناصر القائمة. في كل
 
 ### الدرس الرابع: بحث تسلسليّ
 
-**קובץ מקור:** [`ar_subs_t1rTsvXh7gw.srt.sjson`](images/ar_subs_t1rTsvXh7gw.srt.sjson)
+**קובץ מקור:** [`ar_subs_t1rTsvXh7gw.srt.sjson`](../images/ar_subs_t1rTsvXh7gw.srt.sjson)
 
 الدرس الرابع: بحث تسلسليّ الأسس في مسابقة البحث في دليل الهاتف، رأينا المتنافس المبتدئ يُجري بحثًا تسلسليًّا. البحث التسلسليّ هو الحل الأبسط لمشكلة البحث، حيث نقوم فيه بالمرور على جميع عناصر القائمة عنصرًا تلو الآخر.
 
@@ -1464,7 +1464,7 @@ True و False. إذا كان X موجودًا بالقائمة، المخرجا�
 
 ### مرحبًا.
 
-**קובץ מקור:** [`ar_subs_VvgsCft7XpY.srt.sjson`](images/ar_subs_VvgsCft7XpY.srt.sjson)
+**קובץ מקור:** [`ar_subs_VvgsCft7XpY.srt.sjson`](../images/ar_subs_VvgsCft7XpY.srt.sjson)
 
 مرحبًا. تعلمنا في الدرس السابق كيفية استخدام بايثون، لقراءة البيانات وحفظها وتحليلها. سنتعلم في هذا الدرس كيفية استخدام لغة بايثون، لتمثيل هذه البيانات في رسوم بيانية. لكن قبل هذا، نريد أن نفهم أساسًا السبب الذي يجعل الرسوم البيانية ضرورية لنا. لقد تعرفنا سابقًا على طريقة مثالية
 
@@ -1482,7 +1482,7 @@ True و False. إذا كان X موجودًا بالقائمة، المخرجا�
 
 ### الدرس الأول: مسألة الإقران المتكافئ
 
-**קובץ מקור:** [`ar_subs_zLiB9I-SpOs.srt.sjson`](images/ar_subs_zLiB9I-SpOs.srt.sjson)
+**קובץ מקור:** [`ar_subs_zLiB9I-SpOs.srt.sjson`](../images/ar_subs_zLiB9I-SpOs.srt.sjson)
 
 "الدرس الأول: مسألة الإقران المتكافئ" مرحبًا مرة أخرى. شرحنا لماذا أجهزة الحاسوب هي أدوات قوية. إنها تسمح لنا بحفظ كمية كبيرة من البيانات في الذاكرة، وتنفيذ عمليات معقّدة على هذه البيانات، بسرعة يعجز الإنسان عن الاقتراب منها.
 
@@ -1524,7 +1524,7 @@ True و False. إذا كان X موجودًا بالقائمة، المخرجا�
 
 ### الدرس الثاني: القوائم المتداخلة ـ الجزء الثاني
 
-**קובץ מקור:** [`c97ed551-8108-49e5-b963-7e37c234ce1c-ar.srt`](images/c97ed551-8108-49e5-b963-7e37c234ce1c-ar.srt)
+**קובץ מקור:** [`c97ed551-8108-49e5-b963-7e37c234ce1c-ar.srt`](../images/c97ed551-8108-49e5-b963-7e37c234ce1c-ar.srt)
 
 "الدرس الثاني: القوائم المتداخلة ـ الجزء الثاني" لقد استعرضنا حتى الآن كيف نكتب قوائم متداخلة في بايثون، وكيفية الوصول إلى عناصر القوائم الداخلية باستخدام أكثر من مؤشر واحد. قائمة داخلية داخل قائمة أخرى ليست مختلفة حقًا عن القائمة العادية. بعد أن نفهم ذلك،
 
@@ -1546,7 +1546,7 @@ True و False. إذا كان X موجودًا بالقائمة، المخرجا�
 
 ### الدرس الثاني: دوال تستدعي دوال ـ الجزء الثاني
 
-**קובץ מקור:** [`COMP262B_AR_1409 - Functions calling functions part 2.srt`](images/COMP262B_AR_1409%20-%20Functions%20calling%20functions%20part%202.srt)
+**קובץ מקור:** [`COMP262B_AR_1409 - Functions calling functions part 2.srt`](../images/COMP262B_AR_1409%20-%20Functions%20calling%20functions%20part%202.srt)
 
 "الدرس الثاني: دوال تستدعي دوال ـ الجزء الثاني" دعونا نكمل مع مثال آخر لدالة تستدعي دوال أخرى. سنكتب الآن دالة لحساب قيمة قصوى من بين عشر قيم، وفقًا للمخطط الانسيابي الذي شاهدتموه ويظهر أمامكم. سنسمي دالتنا: max10. عدد المعطيات التي تتلقاها كبير نسبيًّا، عشرة معطيات، وبالتالي من المعتاد إعطاء المعطيات أسماء مع أرقام،
 
@@ -1574,7 +1574,7 @@ True و False. إذا كان X موجودًا بالقائمة، المخرجا�
 
 ### 5. -6. -بوم.
 
-**קובץ מקור:** [`CS Lesson 3 1 FC_ARA_final.srt`](images/CS%20Lesson%203%201%20FC_ARA_final.srt)
+**קובץ מקור:** [`CS Lesson 3 1 FC_ARA_final.srt`](../images/CS%20Lesson%203%201%20FC_ARA_final.srt)
 
 5. -6. -بوم. .9- .8 مرحبا بالجميع. في هذا الدرس، سنتحدث عن مصطلح بالغ الأهمية في البرمجة: حلقات التكرار. سنشرح هذا المفهوم بواسطة لعبتين لطيفتين، ربما بعضكم يعرفهما. تسمى اللعبة الأولى "7 بوم"،
 
@@ -1612,7 +1612,7 @@ True و False. إذا كان X موجودًا بالقائمة، المخرجا�
 
 ### الدرس السادس: هل يمكن "كسر" شفرة الاستبدال؟
 
-**קובץ מקור:** [`CS Lesson 6 7 FC3_ARA_FINAL.srt`](images/CS%20Lesson%206%207%20FC3_ARA_FINAL.srt)
+**קובץ מקור:** [`CS Lesson 6 7 FC3_ARA_FINAL.srt`](../images/CS%20Lesson%206%207%20FC3_ARA_FINAL.srt)
 
 "الدرس السادس: هل يمكن "كسر" شفرة الاستبدال؟" للتذكير مرة أخرى: ما الذي أتاح لنا كسر شفرة قيصر بسهولة؟ إنها الحقيقة أن للشفرة نفس الإزاحة لجميع حروف الأبجدية. وهذا يعني أن هناك ما مجموعه 26 إزاحة محتملة، بما في ذلك الإزاحة 0 مراتب. يمكنكم تجربها جميعًا،
 
@@ -1632,7 +1632,7 @@ True و False. إذا كان X موجودًا بالقائمة، المخرجا�
 
 ### كيف حالكم؟
 
-**קובץ מקור:** [`M0011 LS Python Lesson 05 Charts Intro RC2_ARB.srt`](images/M0011%20LS%20Python%20Lesson%2005%20Charts%20Intro%20RC2_ARB.srt)
+**קובץ מקור:** [`M0011 LS Python Lesson 05 Charts Intro RC2_ARB.srt`](../images/M0011%20LS%20Python%20Lesson%2005%20Charts%20Intro%20RC2_ARB.srt)
 
 كيف حالكم؟ تعلمنا في الوحدة السابقة أنه يمكن ترتيب البيانات بواسطة إنشاء قاموس وكيف يساعدنا بطريقة رائعة للربط بين الأسماء والقيم. لكن القاموس لا يكون كافي أحيانًا لترتيب البيانات بالطريقة المطلوبة. هل تذكرون هذه الكاميرات؟
 
@@ -1658,7 +1658,7 @@ True و False. إذا كان X موجودًا بالقائمة، المخرجا�
 
 ### هل تعرفون السر للاستماع بنوم مريح؟
 
-**קובץ מקור:** [`M0016 LS Python Lesson 05 Lab Report FC_ARB.srt`](images/M0016%20LS%20Python%20Lesson%2005%20Lab%20Report%20FC_ARB.srt)
+**קובץ מקור:** [`M0016 LS Python Lesson 05 Lab Report FC_ARB.srt`](../images/M0016%20LS%20Python%20Lesson%2005%20Lab%20Report%20FC_ARB.srt)
 
 هل تعرفون السر للاستماع بنوم مريح؟ لقد اتضح أن السر قد يكمن في أرجلنا. إحدى الفرضيات التي يقدمها متخصصون بدراسة النوم هي أن المشي يوميًا يساعد على النوم بشكل أفضل. في المختبر التكاملي للكائنات الحية، ضمن اللقب الأول، هنا في كلية العلوم الحياتية، قاموا بتوزيع ساعات ذكية على الطلاب والتي تقيس عدد الخطوات
 

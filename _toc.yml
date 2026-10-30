@@ -3,7 +3,9 @@ root: index
 parts:
   - caption: "מבוא לקורס"
     chapters:
-      - file: welcome/how_to_succeed
+      - file: welcome/index
+        sections:
+          - file: welcome/how_to_succeed
 
   - caption: "שיעור 1: מדעי המחשב ושפת פייתון"
     chapters:

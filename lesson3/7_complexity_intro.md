@@ -1,6 +1,6 @@
 # 3.7 מבוא לסיבוכיות זמן ריצה ($O(n)$ מול $O(n^2)$) ומדידת זמנים
 
-![סיבוכיות זמן ריצה](../images/Data%20Center%20-%20Stock%20image.jpg)
+![סיבוכיות זמן ריצה](../images/data_center.jpg)
 
 > 🎬 **דברי המרצים:**  
 > *"כמתכנתים, לא מספיק שהתוכנית תעבוד נכון – חשוב גם כמה זמן ייקח לה לרוץ. יש תוכניות שיסתיימו באלפית השנייה, ויש תוכניות שייקחו מיליארדי שנים! המדד שבאמצעותו אנו מעריכים יעילות אלגוריתמים נקרא 'סיבוכיות זמן ריצה'."*
@@ -25,7 +25,7 @@
 ## 2. מדידת זמנים בפייתון עם `time`
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alonitzkovitch/python_course_book/blob/main/practice/interactive_labs.ipynb)
-[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://raw.githubusercontent.com/alonitzkovitch/python_course_book/main/practice/interactive_labs.ipynb)
+[![Open In Kaggle](https://kaggle.com/static/../images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://raw.githubusercontent.com/alonitzkovitch/python_course_book/main/practice/interactive_labs.ipynb)
 
 
 ```python

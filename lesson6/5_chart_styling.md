@@ -20,7 +20,7 @@
 ## 2. קוד מעשי להרצה: השוואת שתי ערים עם מקרא
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alonitzkovitch/python_course_book/blob/main/practice/interactive_labs.ipynb)
-[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://raw.githubusercontent.com/alonitzkovitch/python_course_book/main/practice/interactive_labs.ipynb)
+[![Open In Kaggle](https://kaggle.com/static/../images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://raw.githubusercontent.com/alonitzkovitch/python_course_book/main/practice/interactive_labs.ipynb)
 
 
 ```python
@@ -41,7 +41,7 @@ plt.legend()
 plt.grid(True, alpha=0.3)
 
 # שמירת התמונה לדיסק
-plt.savefig("images/temperature_comparison.png")
+plt.savefig("../images/temperature_comparison.png")
 plt.show()
 ```
 

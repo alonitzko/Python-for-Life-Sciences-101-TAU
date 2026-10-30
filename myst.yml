@@ -11,7 +11,9 @@ project:
       affiliations: "אוניברסיטת תל אביב"
   toc:
     - file: index.md
-    - file: welcome/how_to_succeed.md
+    - file: welcome/index.md
+      children:
+        - file: welcome/how_to_succeed.md
     - file: lesson1/index.md
       children:
         - file: lesson1/1_intro_cs.md
